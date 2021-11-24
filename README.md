@@ -6,7 +6,7 @@ Die Cloud Klabauter sind ein Start-up der DOMUS Software AG und wurden 2020 gegr
 
 #
 
-### SO ARBEITEN WIR
+## SO ARBEITEN WIR
 
 Die Cloud Klabauter leben von Anfang an eine Remote Kultur.
 Unsere Lösungen profitieren vom Einsatz aktueller Technologien und durch die langjährigen Erfahrung in der Entwicklung von Cloud Services.
@@ -17,19 +17,49 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 #
 
-### WAS UNSER TEAM SAGT
+## UNSER TEAM
 
-> **Carola I.:** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+### Thomas F. | `Backend Developer`
+> **Über mich:** - Softwaredeveloper, Klabauter
 
-> **Alexander D.:** Modernste Technologien, flexibles Arbeiten und super Kollegen - was will man mehr!
+> **TechStack:** `.NET`, `C#`, `k8s`, `PowerShell`, `terraform`, `pulumi`, `azure`, `WPF` ...
 
-> **Robert M.:** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-
-> **Thomas F.:** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+> **Was mag ich an den Klabautern?:** Arbeiten mit modernen Technologien und tolle Kollegen, mit denen man sich immer wieder herausfordern kann
 
 #
 
-### UNSER SPEKTRUM
+### Carola I. | `Frontend Developer`
+
+> **Über mich:**  Web Developer, Scrum Fan
+
+> **TechStack:** `react`, `vue.js`, `typescript`, `c#`, `graphql`, `chrome dev tools`, ...
+
+> **Was mag ich an den Klabautern?:** Tolles Team, flexibles Arbeiten, interessante und herausfordernde Aufgaben :)
+
+#
+    
+### Robert M. | `Frontend Developer`
+> **Über mich:** I ❤️ to work with React, Node.js, GraphQL & Azure. Fullstack Technology Enthusiast is the best description for me
+
+> **TechStack:** `react`, `typescript`, `nodejs`, `graphql`, `c#`, `azure`, `aws`, `.net`, ...
+
+> **Was mag ich an den Klabautern?:** Flexibilität, Remote Work, stabiles Team & spannende Herausforderungen
+
+#
+
+### Alex D. | `Backend Developer`
+
+> **Über mich:** - Softwaredeveloper, Cloud enthusiast, Explorer
+
+> **TechStack:** `react`, `typescript`, `nodejs`, `.NET`, `c#`, `elk`, `k8s`, `terraform`, `pulumi`, `helm`, `azure`, `aws` ...
+
+> **Was mag ich an den Klabautern?:** Modernste Technologien, flexibles Arbeiten und super Kollegen - was will man mehr!
+
+
+#
+
+
+## UNSER SPEKTRUM
 Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Leipzig für und von Software Entwicklern. Jährlich werden verschiedene Workshops angeboten. Die Technologien und Methodiken aus folgenden Workshops finden auch in unseren Projekten Verwendung.
 
 - Infrastructure as Code mit Pulumi
