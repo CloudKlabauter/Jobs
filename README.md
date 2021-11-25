@@ -55,6 +55,8 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 > **Was mag ich an den Klabautern?:** Modernste Technologien, flexibles Arbeiten und super Kollegen - was will man mehr!
 
+#
+
 ### Michael L. | `Backend Developer`
 
 > **Über mich:** - Software-Developer, Klabauter
