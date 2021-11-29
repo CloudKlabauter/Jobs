@@ -19,6 +19,16 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ## UNSER TEAM
 
+### Alex D. | `Backend Developer`
+
+> **Über mich:** - Softwaredeveloper, Cloud enthusiast, Explorer
+
+> **TechStack:** `react`, `typescript`, `nodejs`, `.NET`, `c#`, `elk`, `k8s`, `terraform`, `pulumi`, `helm`, `azure`, `aws` ...
+
+> **Was mag ich an den Klabautern?:** Modernste Technologien, flexibles Arbeiten und super Kollegen - was will man mehr!
+
+#
+
 ### Thomas F. | `Backend Developer`
 > **Über mich:** - Softwaredeveloper, Klabauter
 
@@ -56,27 +66,6 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Flexibilität, Remote Work, stabiles Team & spannende Herausforderungen
 
 #
-
-### Alex D. | `Backend Developer`
-
-> **Über mich:** - Softwaredeveloper, Cloud enthusiast, Explorer
-
-> **TechStack:** `react`, `typescript`, `nodejs`, `.NET`, `c#`, `elk`, `k8s`, `terraform`, `pulumi`, `helm`, `azure`, `aws` ...
-
-> **Was mag ich an den Klabautern?:** Modernste Technologien, flexibles Arbeiten und super Kollegen - was will man mehr!
-
-#
-
-### Michael L. | `Backend Developer`
-
-> **Über mich:** - Software-Developer, Klabauter
-
-> **TechStack:** `.NET`, `C#`, `k8s`, `pulumi`, `azure`, `WPF` ...
-
-> **Was mag ich an den Klabautern?:** Den Drive, mit modernsten Technologien etwas Großes zu erreichen. Ein hervorragendes Team und Unternehmensstruktur. Viel Freiheit und gute Arbeitsbedingungen.
-
-#
-
 
 ## UNSER SPEKTRUM
 Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Leipzig für und von Software Entwicklern. Jährlich werden verschiedene Workshops angeboten. Die Technologien und Methodiken aus folgenden Workshops finden auch in unseren Projekten Verwendung.
