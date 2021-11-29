@@ -37,6 +37,16 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Tolles Team, flexibles Arbeiten, interessante und herausfordernde Aufgaben :)
 
 #
+
+### Michael L. | `Backend Developer`
+
+> **Über mich:** Software-Developer, Klabauter
+
+> **TechStack:** `.NET`, `C#`, `k8s`, `pulumi`, `azure`, `WPF` ...
+
+> **Was mag ich an den Klabautern?:** Den Drive, mit modernsten Technologien etwas Großes zu erreichen. Ein hervorragendes Team und Unternehmensstruktur. Viel Freiheit und gute Arbeitsbedingungen.
+
+#
     
 ### Robert M. | `Frontend Developer`
 > **Über mich:** I ❤️ to work with React, Node.js, GraphQL & Azure. Fullstack Technology Enthusiast is the best description for me
