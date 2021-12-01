@@ -1,5 +1,5 @@
 
-![CloudKlabauter](Images/logo.png)
+![CloudKlabauter](images/logo.png)
 
 
 Als Entwicklungsteam mit mehrjähriger Erfahrung in der Immobilienbranche haben wir die dortigen Herausforderungen erkannt und arbeiten gemeinsam an einer innovativen Plattform, um diese mit **Automatisierung** und **Vernetzung** zu lösen.
@@ -17,12 +17,12 @@ Unsere Lösungen profitieren vom Einsatz aktueller Technologien und durch die la
 
 Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Monatlicher Kaffeevorrat`, `Persönliches Weiterbildungsbudgets` und `Moderne Hardware`
 
-![Work](Images/work.png)
+![Work](images/work.png)
 
 #
 
 ## UNSER TEAM
-<img style="float: right;padding: 2px" src="Images/thomas.png" alt="Thomas" width="127"/>
+<img style="float: right;padding: 2px" src="images/thomas.png" alt="Thomas" width="127"/>
 
 ### Thomas | `Backend Developer`
 > **Über mich:** - Softwaredeveloper, Klabauter
@@ -33,7 +33,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 #
 
-<img style="float: right;padding: 2px" src="Images/carola.png" alt="Carola" width="127"/>
+<img style="float: right;padding: 2px" src="images/carola.png" alt="Carola" width="127"/>
 
 ### Carola | `Frontend Developer`
 
@@ -44,7 +44,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Tolles Team, flexibles Arbeiten, interessante und herausfordernde Aufgaben :)
 
 #
-<img style="float: right;padding: 2px" src="Images/michael.png" alt="Michael" width="127"/>
+<img style="float: right;padding: 2px" src="images/michael.png" alt="Michael" width="127"/>
 
 ### Michael | `Backend Developer`
 
@@ -55,7 +55,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Den Drive, mit modernsten Technologien etwas Großes zu erreichen. Ein hervorragendes Team und Unternehmensstruktur. Viel Freiheit und gute Arbeitsbedingungen.
 
 #
-<img style="float: right;padding: 2px" src="Images/robert.png" alt="Robert" width="127"/>
+<img style="float: right;padding: 2px" src="images/robert.png" alt="Robert" width="127"/>
 
 ### Robert | `Frontend Developer`
 > **Über mich:** I ❤️ to work with React, Node.js, GraphQL & Azure. Fullstack Technology Enthusiast is the best description for me
@@ -65,7 +65,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Flexibilität, Remote Work, stabiles Team & spannende Herausforderungen
 
 #
-<img style="float: right;padding: 2px" src="Images/alex.png" alt="Alex" width="127"/>
+<img style="float: right;padding: 2px" src="images/alex.png" alt="Alex" width="127"/>
 
 ### Alex | `Backend Developer`
 
@@ -96,7 +96,7 @@ Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Le
 - AWS DevOps
 
 #
-![Team](Images/team.png)
+![Team](images/team.png)
 
 
 
