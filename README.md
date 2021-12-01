@@ -1,4 +1,6 @@
-# CLOUD KLABAUTER
+
+![CloudKlabauter](Images/logo.png)
+
 
 Als Entwicklungsteam mit mehrjähriger Erfahrung in der Immobilienbranche haben wir die dortigen Herausforderungen erkannt und arbeiten gemeinsam an einer innovativen Plattform, um diese mit **Automatisierung** und **Vernetzung** zu lösen.
 
@@ -15,21 +17,14 @@ Unsere Lösungen profitieren vom Einsatz aktueller Technologien und durch die la
 
 Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Monatlicher Kaffeevorrat`, `Persönliches Weiterbildungsbudgets` und `Moderne Hardware`
 
+![Work](Images/work.png)
+
 #
 
 ## UNSER TEAM
+<img style="float: right;padding: 2px" src="Images/thomas.png" alt="Thomas" width="127"/>
 
-### Alex D. | `Backend Developer`
-
-> **Über mich:** - Softwaredeveloper, Cloud enthusiast, Explorer
-
-> **TechStack:** `react`, `typescript`, `nodejs`, `.NET`, `c#`, `elk`, `k8s`, `terraform`, `pulumi`, `helm`, `azure`, `aws` ...
-
-> **Was mag ich an den Klabautern?:** Modernste Technologien, flexibles Arbeiten und super Kollegen - was will man mehr!
-
-#
-
-### Thomas F. | `Backend Developer`
+### Thomas | `Backend Developer`
 > **Über mich:** - Softwaredeveloper, Klabauter
 
 > **TechStack:** `.NET`, `C#`, `k8s`, `PowerShell`, `terraform`, `pulumi`, `azure`, `WPF` ...
@@ -38,7 +33,9 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 #
 
-### Carola I. | `Frontend Developer`
+<img style="float: right;padding: 2px" src="Images/carola.png" alt="Carola" width="127"/>
+
+### Carola | `Frontend Developer`
 
 > **Über mich:**  Web Developer, Scrum Fan
 
@@ -47,8 +44,9 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Tolles Team, flexibles Arbeiten, interessante und herausfordernde Aufgaben :)
 
 #
+<img style="float: right;padding: 2px" src="Images/michael.png" alt="Michael" width="127"/>
 
-### Michael L. | `Backend Developer`
+### Michael | `Backend Developer`
 
 > **Über mich:** Software-Developer, Klabauter
 
@@ -57,8 +55,9 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Den Drive, mit modernsten Technologien etwas Großes zu erreichen. Ein hervorragendes Team und Unternehmensstruktur. Viel Freiheit und gute Arbeitsbedingungen.
 
 #
-    
-### Robert M. | `Frontend Developer`
+<img style="float: right;padding: 2px" src="Images/robert.png" alt="Robert" width="127"/>
+
+### Robert | `Frontend Developer`
 > **Über mich:** I ❤️ to work with React, Node.js, GraphQL & Azure. Fullstack Technology Enthusiast is the best description for me
 
 > **TechStack:** `react`, `typescript`, `nodejs`, `graphql`, `c#`, `azure`, `aws`, `.net`, ...
@@ -66,6 +65,19 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Flexibilität, Remote Work, stabiles Team & spannende Herausforderungen
 
 #
+<img style="float: right;padding: 2px" src="Images/alex.png" alt="Alex" width="127"/>
+
+### Alex | `Backend Developer`
+
+> **Über mich:** - Softwaredeveloper, Cloud enthusiast, Explorer
+
+> **TechStack:** `react`, `typescript`, `nodejs`, `.NET`, `c#`, `elk`, `k8s`, `terraform`, `pulumi`, `helm`, `azure`, `aws` ...
+
+> **Was mag ich an den Klabautern?:** Modernste Technologien, flexibles Arbeiten und super Kollegen - was will man mehr!
+
+
+#
+
 
 ## UNSER SPEKTRUM
 Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Leipzig für und von Software Entwicklern. Jährlich werden verschiedene Workshops angeboten. Die Technologien und Methodiken aus folgenden Workshops finden auch in unseren Projekten Verwendung.
@@ -82,5 +94,9 @@ Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Le
 - Von ES6 bis ESNext – JavaScript-Features, die ihr kennen müsst!
 - ASP.NET Core Health Checks
 - AWS DevOps
+
+#
+![Team](Images/team.png)
+
 
 
