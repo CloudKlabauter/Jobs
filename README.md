@@ -22,7 +22,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 #
 
 ## UNSER TEAM
-<img style="float: right;padding: 2px" src="images/thomas.png" alt="Thomas" width="127"/>
+<img style="float: right;padding: 2px" src="images/thomas.png" alt="Thomas" width="127" align="right"/>
 
 ### Thomas | `Backend Developer`
 > **Über mich:** - Softwaredeveloper, Klabauter
@@ -33,7 +33,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 #
 
-<img style="float: right;padding: 2px" src="images/carola.png" alt="Carola" width="127"/>
+<img style="float: right;padding: 2px" src="images/carola.png" alt="Carola" width="127" align="right"/>
 
 ### Carola | `Frontend Developer`
 
@@ -44,7 +44,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Tolles Team, flexibles Arbeiten, interessante und herausfordernde Aufgaben :)
 
 #
-<img style="float: right;padding: 2px" src="images/michael.png" alt="Michael" width="127"/>
+<img style="float: right;padding: 2px" src="images/michael.png" alt="Michael" width="127" align="right"/>
 
 ### Michael | `Backend Developer`
 
@@ -55,7 +55,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Den Drive, mit modernsten Technologien etwas Großes zu erreichen. Ein hervorragendes Team und Unternehmensstruktur. Viel Freiheit und gute Arbeitsbedingungen.
 
 #
-<img style="float: right;padding: 2px" src="images/robert.png" alt="Robert" width="127"/>
+<img style="float: right;padding: 2px" src="images/robert.png" alt="Robert" width="127" align="right"/>
 
 ### Robert | `Frontend Developer`
 > **Über mich:** I ❤️ to work with React, Node.js, GraphQL & Azure. Fullstack Technology Enthusiast is the best description for me
@@ -65,7 +65,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Flexibilität, Remote Work, stabiles Team & spannende Herausforderungen
 
 #
-<img style="float: right;padding: 2px" src="images/alex.png" alt="Alex" width="127"/>
+<img style="float: right;padding: 2px" src="images/alex.png" alt="Alex" width="127" align="right"/>
 
 ### Alex | `Backend Developer`
 
