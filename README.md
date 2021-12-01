@@ -1,6 +1,4 @@
-
 ![CloudKlabauter](images/logo.png)
-
 
 Als Entwicklungsteam mit mehrjähriger Erfahrung in der Immobilienbranche haben wir die dortigen Herausforderungen erkannt und arbeiten gemeinsam an einer innovativen Plattform, um diese mit **Automatisierung** und **Vernetzung** zu lösen.
 
@@ -22,9 +20,11 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 #
 
 ## UNSER TEAM
+
 <img style="float: right;padding: 2px" src="images/thomas.png" alt="Thomas" width="127" align="right"/>
 
 ### Thomas | `Backend Developer`
+
 > **Über mich:** - Softwaredeveloper, Klabauter
 
 > **TechStack:** `.NET`, `C#`, `k8s`, `PowerShell`, `terraform`, `pulumi`, `azure`, `WPF` ...
@@ -37,13 +37,14 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ### Carola | `Frontend Developer`
 
-> **Über mich:**  Web Developer, Scrum Fan
+> **Über mich:** Web Developer, Scrum Fan
 
 > **TechStack:** `react`, `vue.js`, `typescript`, `c#`, `graphql`, `chrome dev tools`, ...
 
 > **Was mag ich an den Klabautern?:** Tolles Team, flexibles Arbeiten, interessante und herausfordernde Aufgaben :)
 
 #
+
 <img style="float: right;padding: 2px" src="images/michael.png" alt="Michael" width="127" align="right"/>
 
 ### Michael | `Backend Developer`
@@ -55,9 +56,11 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Den Drive, mit modernsten Technologien etwas Großes zu erreichen. Ein hervorragendes Team und Unternehmensstruktur. Viel Freiheit und gute Arbeitsbedingungen.
 
 #
+
 <img style="float: right;padding: 2px" src="images/robert.png" alt="Robert" width="127" align="right"/>
 
 ### Robert | `Frontend Developer`
+
 > **Über mich:** I ❤️ to work with React, Node.js, GraphQL & Azure. Fullstack Technology Enthusiast is the best description for me
 
 > **TechStack:** `react`, `typescript`, `nodejs`, `graphql`, `c#`, `azure`, `aws`, `.net`, ...
@@ -65,6 +68,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **Was mag ich an den Klabautern?:** Flexibilität, Remote Work, stabiles Team & spannende Herausforderungen
 
 #
+
 <img style="float: right;padding: 2px" src="images/alex.png" alt="Alex" width="127" align="right"/>
 
 ### Alex | `Backend Developer`
@@ -75,11 +79,10 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 > **Was mag ich an den Klabautern?:** Modernste Technologien, flexibles Arbeiten und super Kollegen - was will man mehr!
 
-
 #
 
-
 ## UNSER SPEKTRUM
+
 Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Leipzig für und von Software Entwicklern. Jährlich werden verschiedene Workshops angeboten. Die Technologien und Methodiken aus folgenden Workshops finden auch in unseren Projekten Verwendung.
 
 - Infrastructure as Code mit Pulumi
@@ -96,7 +99,18 @@ Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Le
 - AWS DevOps
 
 #
+
+## WIR BRAUCHEN DICH
+
+Wenn du dich auf einer der folgenden Positionen wiederfindest oder auf einer die du hier nicht finden kannst, dann freuen wir uns eine Nachricht von dir!
+
+> 🧑‍💻 [Devops Engineer (M/W/D) | 50-100% | REMOTE](DEVOPS_ENGINEER.md)  
+> 🧑‍💻 [Senior Cloud Engineer (M/W/D) | 100% | REMOTE](SENIOR_CLOUD_ENGINEER.md)  
+> 🧑‍💻 [Senior Developer (M/W/D) | 100% | REMOTE](SENIOR_DEVELOPER.md)  
+> 🧑‍💻 [Test Automation Engineer (M/W/D) | 50-100% | REMOTE](TEST_AUTOMATION_ENGINEER.md)  
+> 🧑‍💻 [Fullstack Developer (M/W/D) | 100% | REMOTE](FULLSTACK_DEVELOPER.md)  
+> 🧑‍💻 [Frontend Developer (M/W/D) | 50-100% | REMOTE](FRONTEND_DEVELOPER.md)
+
+#
+
 ![Team](images/team.png)
-
-
-
