@@ -18,6 +18,7 @@ Du bist eine kommunikative und aufgeschlossene Person? Hast eine ausgeprägte Ne
 - Gute Kenntnisse in `CSS` / `Styled Components`
 - Kenntnisse mit Microsoft `Azure` & `AWS` sind von Vorteil
 - Kenntnisse in `GraphQL` sind von Vorteil
+- Sicherer Umgang mit `Cypress` oder `Jest` 
 - Open-Minded für neue Technologien
 - Gute Kommunikationsfähigkeiten in Deutsch
 
