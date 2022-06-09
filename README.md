@@ -4,7 +4,7 @@ Als Entwicklungsteam mit mehrjähriger Erfahrung in der Immobilienbranche haben 
 
 Die Cloud Klabauter sind ein Start-up der DOMUS Software AG und wurden 2020 gegründet. Mit mehr als 45 Jahren Erfahrung in der Entwicklung on Immobilienlösungen ist die DOMUS Software AG der Marktführer im Mittelstand. Unser Ziel ist die Entwicklung von modernen Lösungen in Zusammenarbeit mit namhaften Partnern aus der Immobilienbranche.
 
-#
+---
 
 ## SO ARBEITEN WIR
 
@@ -17,7 +17,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ![Work](images/work.png)
 
-#
+---
 
 ## UNSER TEAM
 
@@ -31,19 +31,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 > **Was mag ich an den Klabautern?:** Arbeiten mit modernen Technologien und tolle Kollegen, mit denen man sich immer wieder herausfordern kann
 
-#
-
-<img style="float: right;padding: 2px" src="images/carola.png" alt="Carola" width="127" align="right"/>
-
-### Carola | `Frontend Developer`
-
-> **Über mich:** Web Developer, Scrum Fan
-
-> **TechStack:** `react`, `vue.js`, `typescript`, `c#`, `graphql`, `chrome dev tools`, ...
-
-> **Was mag ich an den Klabautern?:** Tolles Team, flexibles Arbeiten, interessante und herausfordernde Aufgaben :)
-
-#
+---
 
 <img style="float: right;padding: 2px" src="images/michael.png" alt="Michael" width="127" align="right"/>
 
@@ -55,7 +43,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 > **Was mag ich an den Klabautern?:** Den Drive, mit modernsten Technologien etwas Großes zu erreichen. Ein hervorragendes Team und Unternehmensstruktur. Viel Freiheit und gute Arbeitsbedingungen.
 
-#
+---
 
 <img style="float: right;padding: 2px" src="images/robert.png" alt="Robert" width="127" align="right"/>
 
@@ -67,19 +55,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 > **Was mag ich an den Klabautern?:** Flexibilität, Remote Work, stabiles Team & spannende Herausforderungen
 
-#
-
-<img style="float: right;padding: 2px" src="images/alex.png" alt="Alex" width="127" align="right"/>
-
-### Alex | `Backend Developer`
-
-> **Über mich:** - Softwaredeveloper, Cloud enthusiast, Explorer
-
-> **TechStack:** `react`, `typescript`, `nodejs`, `.NET`, `c#`, `elk`, `k8s`, `terraform`, `pulumi`, `helm`, `azure`, `aws` ...
-
-> **Was mag ich an den Klabautern?:** Modernste Technologien, flexibles Arbeiten und super Kollegen - was will man mehr!
-
-#
+---
 
 ## UNSER SPEKTRUM
 
@@ -98,7 +74,7 @@ Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Le
 - ASP.NET Core Health Checks
 - AWS DevOps
 
-#
+---
 
 ## WIR BRAUCHEN DICH
 
@@ -111,6 +87,6 @@ Wenn du dich auf einer der folgenden Positionen wiederfindest oder auf einer die
 > 🧑‍💻 [Fullstack Developer (M/W/D) | 100% | REMOTE](FULLSTACK_DEVELOPER.md)  
 > 🧑‍💻 [Frontend Developer (M/W/D) | 50-100% | REMOTE](FRONTEND_DEVELOPER.md)
 
-#
+---
 
 ![Team](images/team.png)
