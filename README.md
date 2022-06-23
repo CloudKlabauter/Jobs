@@ -57,6 +57,18 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ---
 
+<img style="float: right;padding: 2px" src="images/kristian.png" alt="Kristian" width="127" align="right"/>
+
+### Kristian | `Backend Developer`
+
+> **Über mich:** Softwaredeveloper, Klabauter
+
+> **TechStack:** `.NET`, `C#`, `azure`, `graphql`, `k8s`, `WinForms`, ...
+
+> **Was mag ich an den Klabautern?:** Neue Technologien entdecken und nutzen, super nette Kollegen und eine tolle Arbeitsatmosphäre
+
+---
+
 ## UNSER SPEKTRUM
 
 Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Leipzig für und von Software Entwicklern. Jährlich werden verschiedene Workshops angeboten. Die Technologien und Methodiken aus folgenden Workshops finden auch in unseren Projekten Verwendung.
