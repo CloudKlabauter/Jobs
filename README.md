@@ -69,6 +69,40 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ---
 
+<img style="float: right;padding: 2px" src="images/man.png" alt="Kristian" width="127" align="right"/>
+
+### Michael | `Backend Developer`
+
+> **Über mich:** Softwaredeveloper, Klabauter
+
+> **TechStack:** TBD!
+
+> **Was mag ich an den Klabautern?:** TBD!
+
+---
+
+<img style="float: right;padding: 2px" src="images/woman.png" alt="Kristian" width="127" align="right"/>
+
+### Britta | `Product Ownerin`
+
+> **Über mich:** Product Ownerin, Klabauter
+
+> **TechStack:** TBD!
+
+> **Was mag ich an den Klabautern?:** TBD!
+
+---
+
+<img style="float: right;padding: 2px" src="images/man.png" alt="Kristian" width="127" align="right"/>
+
+### Joachim | `Backend Developer`
+
+> **Über mich:** Softwaredeveloper, Klabauter
+
+> **TechStack:** TBD!
+
+> **Was mag ich an den Klabautern?:** TBD!
+
 ## UNSER SPEKTRUM
 
 Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Leipzig für und von Software Entwicklern. Jährlich werden verschiedene Workshops angeboten. Die Technologien und Methodiken aus folgenden Workshops finden auch in unseren Projekten Verwendung.
