@@ -57,16 +57,15 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ---
 
-<img style="float: right;padding: 2px" src="images/kristian.png" alt="Kristian" width="127" align="right"/>
+<img style="float: right;padding: 2px" src="images/britta.png" alt="xxx" width="127" align="right"/>
 
-### Kristian | `Backend Developer`
+### Britta | `Product Owner`
 
-> **Über mich:** Softwaredeveloper, Klabauter
+> **Über mich:** Extroverted introvert
 
-> **TechStack:** `.NET`, `C#`, `azure`, `graphql`, `k8s`, `WinForms`, ...
+> **TechStack:** `umm.....`, ...
 
-> **Was mag ich an den Klabautern?:** Neue Technologien entdecken und nutzen, super nette Kollegen und eine tolle Arbeitsatmosphäre
-
+> **Was mag ich an den Klabautern?:** Die gute Mischung aus Menschen, die ihren Job gerne gut machen, schafft eine Arbeitsatmosphäre, die ihresgleichen sucht.
 ---
 
 ## UNSER SPEKTRUM
