@@ -57,7 +57,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ---
 
-<img style="float: right;padding: 2px" src="images/xxx.png" alt="xxx" width="127" align="right"/>
+<img style="float: right;padding: 2px" src="images/britta.png" alt="xxx" width="127" align="right"/>
 
 ### Britta | `Product Owner`
 
