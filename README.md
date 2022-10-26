@@ -57,7 +57,7 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ---
 
-<img style="float: right;padding: 2px" src="images/britta.png" alt="xxx" width="127" align="right"/>
+<img style="float: right;padding: 2px" src="images/britta.png" alt="Britta" width="127" align="right"/>
 
 ### Britta | `Product Owner`
 
@@ -66,6 +66,19 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 > **TechStack:** `umm.....`, ...
 
 > **Was mag ich an den Klabautern?:** Die gute Mischung aus Menschen, die ihren Job gerne gut machen, schafft eine Arbeitsatmosphäre, die ihresgleichen sucht.
+
+---
+
+<img style="float: right;padding: 2px" src="images/joachim.png" alt="Joachim" width="127" align="right"/>
+
+### Joachim | `Backend Developer`
+
+> **Über mich:** Softwaredeveloper, Klabauter, gerne draußen
+
+> **TechStack:** `.NET`, `C#`, `WPF`, `docker`, `typescript`, `nodejs`, `angular`, `CI/CD` ...
+
+> **Was mag ich an den Klabautern?:** Super Kollegen mit dem Willen gemeinsam etwas Großes zu schaffen, Remote Work
+
 ---
 
 ## UNSER SPEKTRUM
