@@ -81,6 +81,18 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ---
 
+<img style="float: right;padding: 2px" src="images/michaelw.png" alt="Michael" width="127" align="right"/>
+
+### Michael | `Backend Developer`
+
+> **Über mich:** Softwaredeveloper, Motorrad, Outdoors, Eherenamt
+
+> **TechStack:** `.NET`, `C#`, `DevOps`, `CI/CD`, `CosmosDb`, `docker` ...
+
+> **Was mag ich an den Klabautern?:** Klasse Arbeitsumfeld, super Kollegen mit denen man Wert für den Kunden schaffen kann, persönliche Weiterentwicklung.
+
+---
+
 ## UNSER SPEKTRUM
 
 Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Leipzig für und von Software Entwicklern. Jährlich werden verschiedene Workshops angeboten. Die Technologien und Methodiken aus folgenden Workshops finden auch in unseren Projekten Verwendung.
