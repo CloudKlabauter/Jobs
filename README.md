@@ -103,8 +103,8 @@ Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Le
 - Scrum für Scrum Master
 - Scrum für Product Owner
 - Der REST hinter POST und GET – über Hypermedia, HATEOAS, API-Design und Co
-- ASP.NET Core 6
-- GraphQL mit HotChocolate
+- ASP.NET Core 7
+- GraphQL mit HotChocolate und Apollo
 - Monitoring für DevOps
 - Von ES6 bis ESNext – JavaScript-Features, die ihr kennen müsst!
 - ASP.NET Core Health Checks
