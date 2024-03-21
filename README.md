@@ -93,18 +93,6 @@ Unter anderem erwartet dich bei uns `Remote Work`, `Flexible Arbeitszeiten`, `Mo
 
 ---
 
-<img style="float: right;padding: 2px" src="images/stefanwiths.png" alt="Stefan" width="127" align="right"/>
-
-### Stefan | `Frontend Developer`
-
-> **Über mich:** Software developer and media designer, camping, mountain biking, playing ball games with the labrador furry friend
-
-> **TechStack:** `React`, `TypeScript/JavaScript`, `Node.js`, `GraphQL/Apollo`, `Cloud technologies`, ...
-
-> **Was mag ich an den Klabautern?:** I am particulary enthusiastic about the modern working environment, the use of the latest technologies to create exciting software products and the creative exchange with colleagues.
-
----
-
 ## UNSER SPEKTRUM
 
 Der [Developer Open Space](https://devopenspace.de) ist ein Communityevent in Leipzig für und von Software Entwicklern. Jährlich werden verschiedene Workshops angeboten. Die Technologien und Methodiken aus folgenden Workshops finden auch in unseren Projekten Verwendung.
